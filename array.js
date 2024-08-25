@@ -48,3 +48,4 @@ unshift > Add in the begining of the Array
 pop > Always remove the last value of the Array
 shift > Always remove the first value of the Array
 
+var city = ['London',2,45,'Delhi',false,'Paris',true,'Newyork']
